@@ -12,3 +12,5 @@
  project management with git 
 
  merging from feature to master
+
+ new master
